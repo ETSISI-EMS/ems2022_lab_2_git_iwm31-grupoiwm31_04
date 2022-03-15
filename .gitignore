@@ -15,11 +15,7 @@ build/
 target/
 bin/
 dependency-reduced-pom.xml
-
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/master
+sandbox/
 # Eclipse Project Files
 
 .classpath
