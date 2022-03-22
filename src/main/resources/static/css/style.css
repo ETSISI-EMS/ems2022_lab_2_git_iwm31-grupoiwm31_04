@@ -1,10 +1,10 @@
 html,body {
 height:100%;
-background:white;
+background:dodgerblue;
 }
 header {
 display:block;
-background:#d7e0e9;
+background:deeppink;
 padding:10px 0px;
 }
 section {
@@ -13,7 +13,7 @@ float: left;
 overflow: auto;
 padding-bottom: 60px;
 padding-top:30px;
-color: black;
+color: yellow;
 }
 footer {
 position: relative;
@@ -21,7 +21,7 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+background: #9db3c9;
 text-align: center;
 color: black;
 }
